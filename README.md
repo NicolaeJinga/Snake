@@ -1,6 +1,6 @@
 # Snake (May 2015)
 
-Classic Snake Game developed in C++ with SFML
+Classic Snake Game developed in C++ with SFML. Rebuilt in August 2019 with SFML 2.5.1.
 
 ## Project Description
 
